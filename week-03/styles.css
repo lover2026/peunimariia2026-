@@ -1,0 +1,35 @@
+:root {
+
+  --primary-color: #974200;   /* Coffee Brown */
+
+  --bg-color: #ffc1ea36;        /* Cream Background */
+
+}
+
+
+
+
+
+body {
+
+  font-family: Arial, sans-serif;
+
+  background-color: var(--bg-color);
+
+  color: var(--primary-color);
+
+
+
+  display: flex;
+
+  flex-direction: column;
+
+
+
+  margin: 0;
+
+}
+ul {
+    list-style-type: "► ";
+    padding-left: 10px;
+}
