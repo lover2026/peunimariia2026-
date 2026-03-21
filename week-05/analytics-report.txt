@@ -1,0 +1,3 @@
+GTM-NB95RQ88 - Google Tag Manager ID
+G-RBXLYR8PF9 - Analytics ID
+Conversion Description: I am tracking clicks on the menu links (coffee, tea, cakes) to understand which category is most popular.
