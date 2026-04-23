@@ -1,0 +1,3 @@
+It takes about 5 clicks to complete an order. By using the 'All Products' block on a single page and removing complex shipping steps, we made the process fast for students.
+My variable product is the Latte. I gave users the option to choose their Milk Type. The options include Cow milk (standard), Oat milk (+15 CZK), and Soy milk. This allows the business to cater to different dietary needs and charge a premium for plant-based alternatives.
+After placing the test order, the stock level for the Brownie automatically decreased from 5 to 4. The product page now reflects this real-time availability, preventing the shop from overselling a limited item.
